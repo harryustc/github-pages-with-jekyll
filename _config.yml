@@ -9,3 +9,4 @@ twitter_username: IDontHaveAny
 github_username:  harryustc
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
